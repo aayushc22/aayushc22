@@ -20,7 +20,7 @@
 
 <h2>⚡ Top langs 👇</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtya9ia&layout=compact&theme=dark&hide_border=true)](https://github.com/ayushtya9i/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtya9i&layout=compact&theme=dark&hide_border=true)](https://github.com/ayushtya9i/github-readme-stats)
 
 <h2>⚡ Github Stats :tongue:</h2>
 
