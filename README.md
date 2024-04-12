@@ -10,11 +10,11 @@
 
 ![skills](https://skillicons.dev/icons?i=java,js,python)
 
-![skills](https://skillicons.dev/icons?i=vscode,git,github,atom)
+![skills](https://skillicons.dev/icons?i=vscode,git,github,atom,postman)
 
 ![skills](https://skillicons.dev/icons?i=react,vite,html,css,bootstrap,tailwindcss)
 
-![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,spring,springboot,docker)
+![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker)
 
 
 
