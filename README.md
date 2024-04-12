@@ -5,7 +5,8 @@
 [![skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayushtya9i/)
 [![skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ayushtya9i/)
 [![skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ayushtya9i/)
-[![skills](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/ayushtya9i/)
+<a href="https://www.leetcode.com/ayushtya9i" target="_blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushtya9i" height="30" width="40" /></a>
 [![skills](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg)](https://www.geeksforgeeks.org/user/ayushtya9i/)
 
 
