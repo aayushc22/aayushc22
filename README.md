@@ -5,11 +5,8 @@
 [![skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayushtya9i/)
 [![skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ayushtya9i/)
 [![skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ayushtya9i/)
-
-<h3> Coding Profiles</h3>
-
-[![skills](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/ayushtya9i/)
-[![skills](https://skillicons.dev/icons?i=geeksforgeeks)](https://www.geeksforgeeks.org/user/ayushtya9i/)
+[![skills](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/ayushtya9i/)
+[![skills](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg)](https://www.geeksforgeeks.org/user/ayushtya9i/)
 
 
 <h2> ✔️ Tools and Techs Used by me 👇</h2>
