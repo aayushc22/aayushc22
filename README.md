@@ -12,7 +12,7 @@
 
 ![skills](https://skillicons.dev/icons?i=java,js,python)
 
-![skills](https://skillicons.dev/icons?i=vscode,git,github,atom,postman)
+![skills](https://skillicons.dev/icons?i=vscode,git,github,atom,idea,postman,vercel)
 
 ![skills](https://skillicons.dev/icons?i=react,vite,html,css,bootstrap,tailwindcss)
 
