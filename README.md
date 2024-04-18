@@ -34,4 +34,4 @@
 
 <h2>⚡ Github Contributions 👇</h2>
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayushtya9i&theme=material-palenight&hide_border=true)](https://github.com/ayushtya9i/github-readme-activity-graph)
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushtya9i&theme=github_dark" />
