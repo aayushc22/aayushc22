@@ -22,16 +22,16 @@
 
 <h2>⚡ Top langs 👇</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtya9i&layout=compact&theme=dark&hide_border=true)](https://github.com/ayushtya9i/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushc22&layout=compact&theme=dark&hide_border=true)](https://github.com/ayushtya9i/github-readme-stats)
 
 <h2>⚡ Github Stats :tongue:</h2>
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushtya9i&show_icons=true&theme=radical&hide_border=true)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushc22&show_icons=true&theme=radical&hide_border=true)
 
 <h2>⚡Streaks 👇</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushtya9i&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aayushc22&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <h2>⚡ Github Contributions 👇</h2>
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushtya9i&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushc22&theme=github_dark" />
