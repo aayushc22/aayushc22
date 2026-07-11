@@ -14,7 +14,7 @@ Building AI systems that are scalable, secure, and production-ready.
 
 💼 Software Engineer with **2+ years of experience** building enterprise AI applications.
 
-Currently working on
+Currently working on:
 
 - 🤖 Generative AI
 - 🛡️ Responsible AI & AI Guardrails
@@ -29,91 +29,74 @@ I enjoy solving engineering problems where **AI meets scalable software systems.
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js" />
+</p>
 
 ### Backend
 
-- Spring Boot
-- FastAPI
-- REST APIs
-- Microservices
-- Spring Cloud
-- Consul
-- Feign
-- Circuit Breaker
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
+</p>
 
-### AI
+**Technologies:** Spring Boot • Microservices • REST APIs • Spring Cloud • Feign • Consul • Circuit Breaker
+
+### AI / GenAI
 
 - LangChain
 - LangGraph
-- MCP
+- MCP (Model Context Protocol)
 - OpenAI
 - Gemini
 - Azure OpenAI
-- Prompt Engineering
 - RAG
-- AI Guardrails
+- Prompt Engineering
+- AI Agents
 - Responsible AI
+- AI Guardrails
 
 ### Databases
 
-- MySQL
-- MongoDB
-- Elasticsearch
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**Also:** Elasticsearch
 
 ### Frontend
 
-- React
-- Tailwind CSS
-- Redux Toolkit
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux" />
+</p>
 
 ### DevOps & Tools
 
-Git • GitHub • Docker • Postman • IntelliJ • VS Code • Kibana
-
----
-
-## 🏆 What I Work On
-
-✅ AI Agents
-
-✅ Responsible AI
-
-✅ Prompt Injection Detection
-
-✅ Jailbreak Prevention
-
-✅ AI Safety
-
-✅ Browser Extensions
-
-✅ MCP Servers
-
-✅ Enterprise AI Platforms
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aayushc22&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushc22&layout=compact&theme=tokyonight"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
 </p>
 
+**Monitoring:** Kibana • Elasticsearch
+
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aayushc22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 
-<img src="https://streak-stats.demolab.com?user=aayushc22&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushc22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=aayushc22&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayushc22&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushc22&theme=tokyonight" />
 </p>
 
 ---
@@ -129,20 +112,24 @@ Git • GitHub • Docker • Postman • IntelliJ • VS Code • Kibana
 
 ---
 
-## 🎯 2026 Goals
-
-- 🚀 Crack 25+ LPA Product Company
-- ⭐ Build Open Source AI Projects
-- 📚 Master System Design
-- 🤖 Become an Expert in Agentic AI
-
----
-
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: YOUR_EMAIL
+<p align="left">
+<a href="https://linkedin.com/in/ayushtya9i" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:ayushtyagi8445@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+<a href="https://github.com/aayushc22">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
 
 ---
 
-> *"Building intelligent systems that are useful, safe, and scalable."*
+<p align="center">
+<i>"Building intelligent systems that are useful, safe, and scalable."</i>
+</p>
