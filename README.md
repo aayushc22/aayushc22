@@ -1,37 +1,148 @@
-<h1 align="center">Hey there, I'm Ayush Tyagi <img src="Hi.gif" height="30px" width="30px"></h1>
-<h3 align="center">Developer 👨‍💻 | Programmer 👨‍💻  </h3>
-<h3>📫 Lets Connect 🤝</h3>
+<h1 align="center">Hi 👋, I'm Ayush Tyagi</h1>
 
-[![skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayushtya9i/)
-[![skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ayushtya9i/)
-[![skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ayushtya9i/)
+<h3 align="center">
+Software Engineer | Generative AI | Responsible AI | Backend Engineer
+</h3>
 
+<p align="center">
+Building AI systems that are scalable, secure, and production-ready.
+</p>
 
+---
 
-<h2> ✔️ Tools and Techs Used by me 👇</h2>
+## 🚀 About Me
 
-![skills](https://skillicons.dev/icons?i=java,js,python)
+💼 Software Engineer with **2+ years of experience** building enterprise AI applications.
 
-![skills](https://skillicons.dev/icons?i=vscode,git,github,atom,idea,postman,vercel)
+Currently working on
 
-![skills](https://skillicons.dev/icons?i=react,vite,html,css,bootstrap,tailwindcss)
+- 🤖 Generative AI
+- 🛡️ Responsible AI & AI Guardrails
+- ⚡ AI Agents & MCP
+- 🌐 Backend Systems & APIs
 
-![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker)
+I enjoy solving engineering problems where **AI meets scalable software systems.**
 
+---
 
+## 💻 Tech Stack
 
-<h2>⚡ Top langs 👇</h2>
+### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushc22&layout=compact&theme=dark&hide_border=true)](https://github.com/ayushtya9i/github-readme-stats)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-<h2>⚡ Github Stats :tongue:</h2>
+### Backend
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushc22&show_icons=true&theme=radical&hide_border=true)
+- Spring Boot
+- FastAPI
+- REST APIs
+- Microservices
+- Spring Cloud
+- Consul
+- Feign
+- Circuit Breaker
 
-<h2>⚡Streaks 👇</h2>
+### AI
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aayushc22&theme=radical&hide_border=true)](https://git.io/streak-stats)
+- LangChain
+- LangGraph
+- MCP
+- OpenAI
+- Gemini
+- Azure OpenAI
+- Prompt Engineering
+- RAG
+- AI Guardrails
+- Responsible AI
 
-<h2>⚡ Github Contributions 👇</h2>
+### Databases
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushc22&theme=github_dark" />
+- MySQL
+- MongoDB
+- Elasticsearch
+
+### Frontend
+
+- React
+- Tailwind CSS
+- Redux Toolkit
+
+### DevOps & Tools
+
+Git • GitHub • Docker • Postman • IntelliJ • VS Code • Kibana
+
+---
+
+## 🏆 What I Work On
+
+✅ AI Agents
+
+✅ Responsible AI
+
+✅ Prompt Injection Detection
+
+✅ Jailbreak Prevention
+
+✅ AI Safety
+
+✅ Browser Extensions
+
+✅ MCP Servers
+
+✅ Enterprise AI Platforms
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aayushc22&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushc22&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aayushc22&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Agentic AI
+- Multi-Agent Systems
+- LLM Infrastructure
+- Distributed Systems
+- System Design
+- Kubernetes
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Crack 25+ LPA Product Company
+- ⭐ Build Open Source AI Projects
+- 📚 Master System Design
+- 🤖 Become an Expert in Agentic AI
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- Email: YOUR_EMAIL
+
+---
+
+> *"Building intelligent systems that are useful, safe, and scalable."*
