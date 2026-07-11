@@ -5,77 +5,26 @@ Software Engineer | Generative AI | Responsible AI | Backend Engineer
 </h3>
 
 <p align="center">
-Building AI systems that are scalable, secure, and production-ready.
+Building scalable, secure, and production-ready AI systems.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💼 Software Engineer with **2+ years of experience** building enterprise AI applications.
-
-Currently working on:
-
-- 🤖 Generative AI
-- 🛡️ Responsible AI & AI Guardrails
-- ⚡ AI Agents & MCP
-- 🌐 Backend Systems & APIs
-
-I enjoy solving engineering problems where **AI meets scalable software systems.**
+- 💼 Software Engineer with **2+ years of experience**
+- 🤖 Working on **Generative AI, Responsible AI, AI Agents & MCP**
+- 🌐 Building scalable backend systems using **Java, Spring Boot & Python**
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,spring,fastapi,react,tailwind,mysql,mongodb,docker,git,github,postman,vscode,idea" />
 </p>
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
-</p>
-
-**Technologies:** Spring Boot • Microservices • REST APIs • Spring Cloud • Feign • Consul • Circuit Breaker
-
-### AI / GenAI
-
-- LangChain
-- LangGraph
-- MCP (Model Context Protocol)
-- OpenAI
-- Gemini
-- Azure OpenAI
-- RAG
-- Prompt Engineering
-- AI Agents
-- Responsible AI
-- AI Guardrails
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-**Also:** Elasticsearch
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,redux" />
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
-</p>
-
-**Monitoring:** Kibana • Elasticsearch
+**AI:** LangChain • LangGraph • MCP • OpenAI • Gemini • Azure OpenAI • RAG
 
 ---
 
@@ -95,41 +44,20 @@ I enjoy solving engineering problems where **AI meets scalable software systems.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayushc22&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushc22&theme=tokyonight" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Agentic AI
-- Multi-Agent Systems
-- LLM Infrastructure
-- Distributed Systems
-- System Design
-- Kubernetes
-
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/ayushtya9i" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:ayushtyagi8445@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
-<a href="https://github.com/aayushc22">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
-
----
-
 <p align="center">
-<i>"Building intelligent systems that are useful, safe, and scalable."</i>
+  <a href="https://github.com/aayushc22">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
